@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 1 - Primera página</title>
+</head>
+<body>
+    <h1>Mi primera página web</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et, obcaecati dolores quae quia alias modi hic ipsum quod ipsa laborum labore blanditiis, nostrum voluptates qui enim assumenda! Cupiditate, similique rerum?</p>
+    
+</body>
+</html>
