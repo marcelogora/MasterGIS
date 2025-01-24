@@ -13,5 +13,5 @@ const contenidoParradoResultado = document.createTextNode(
   ` El número de enlaces en la página es: ${enlaces.length}, el link al que apunta el penúltimo enlace es: ${penultimoEnlace} y el número de enlaces del tercer párrafo es ${numeroEnlacestercerParrafo}`
 );
 
-parrafoResultados.appendChild(contenidoParradoResultado)
-document.body.appendChild(parrafoResultados)
+parrafoResultados.appendChild(contenidoParradoResultado);
+document.body.appendChild(parrafoResultados);

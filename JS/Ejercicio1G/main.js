@@ -63,19 +63,19 @@ function checkNumber(numero) {
 
 // Ejercicio 1G.5
 
-// const promptUsuario = prompt('Escribe la cadena a evaluar')
+const promptUsuario = prompt('Escribe la cadena a evaluar')
 
-// function mayusOMinus(cadenaDeTexto) {
-//     if(promptUsuario == promptUsuario.toUpperCase()) {
-//         return alert('Ka cadena está en mayúsculas')
-//     } else if (promptUsuario == promptUsuario.toLowerCase()) {
-//         return alert('La cadena está en minúscuas')
-//     } else {
-//         return alert('La cadena tiene ambas mayúsculas y minúsculas')
-//     }
-// }
+ function mayusOMinus(cadenaDeTexto) {
+     if(promptUsuario == promptUsuario.toUpperCase()) {
+         return alert('Ka cadena está en mayúsculas')
+     } else if (promptUsuario == promptUsuario.toLowerCase()) {
+         return alert('La cadena está en minúscuas')
+     } else {
+         return alert('La cadena tiene ambas mayúsculas y minúsculas')
+     }
+ }
 
-//mayusOMinus(promptUsuario)
+mayusOMinus(promptUsuario)
 
 // Ejercicio 1G.6
 
